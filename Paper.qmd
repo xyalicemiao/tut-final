@@ -43,6 +43,6 @@ To mitigate the risk of such issues in future research endeavors, a multifaceted
 
 The scenario highlights the multifaceted challenges of ensuring data integrity and conducting accurate data analysis. The introduced errors significantly impact the dataset's characteristics, leading to potentially misleading conclusions. By implementing robust mitigation strategies, researchers can enhance the reliability of their analyses. These strategies, encompassing instrument checks, data auditing, error correction protocols, statistical anomaly detection, transparency, education, and sensitivity analyses, are crucial for safeguarding against and addressing data integrity issues. Ultimately, such measures ensure that research findings are reflective of the true data-generating.
 
-\Newpage
+\newpage
 
-#References
+#references
